@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there, I'm Yongxin 👋
+
+🎓 Master's Student in **Artificial Intelligence** at Zhejiang University.
+
+🔬 Research interests: **LLM Agents · Graph Reasoning · Reinforcement Learning**
+
+🚀 Exploring how intelligent agents reason, learn, and act.
+
 
 <!--
 **syx7777/syx7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
